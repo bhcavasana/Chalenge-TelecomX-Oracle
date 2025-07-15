@@ -44,5 +44,5 @@ Com base nas descobertas, as seguintes ações são recomendadas para reduzir o 
 * **Bibliotecas**: Pandas, NumPy, Matplotlib, Seaborn, Plotly
 * **Ambiente**: Visual Studio Code
 
-* ## ✍️ Autor
+## ✍️ Autor
 * Projeto desenvolvido po Bruno H. Cavasana, resultado do Challenge Telecom X: análise de evasão de clientes, parte da Especialização em Data Science, parte do **Programa ONE: Oracle Next Education** em parceria com a **Alura**.
